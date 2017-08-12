@@ -4,7 +4,10 @@
 package com.ychs.vo;
 
 /**
- * @author lenovo
+ * User实体类
+ * 
+ * @author wuzhijun
+ * @version 1.0
  *
  */
 public class Users {
